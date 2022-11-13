@@ -1,0 +1,27 @@
+{
+  "name": "online-game",
+  "version": "1.0.0",
+  "description": "online-game",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"test\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dooominic/Online-Game.git"
+  },
+  "author": "Dominic",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Dooominic/Online-Game/issues"
+  },
+  "homepage": "https://github.com/Dooominic/Online-Game#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "firebase": "^9.14.0",
+    "https-server": "^0.1.2"
+  }
+}
